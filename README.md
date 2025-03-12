@@ -1,4 +1,6 @@
-## Hi there 👋
+## # Hello, I'm Igloos 👋
+
+I am a beginner developer from WHU, majoring in Information and Computing Science, which is a branch of Mathematics.
 
 <!--
 **igloomatics/igloomatics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
