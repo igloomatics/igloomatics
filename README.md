@@ -1,6 +1,6 @@
 <!-- 1. 顶部 Banner (这里假设你用 capsule-render 替代，如果是自定义图片请换成图片路径) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C1E1EA&height=300&section=header&text=Igloos%&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Developer&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e6f4f9&height=300&section=header&text=Igloos&fontSize=90&fontColor=445D6E&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Developer&descAlignY=51&descAlign=62&descColor=5f7d95" width="100%"/>
 </div>
 
 <!-- 2. 中间文字和徽章 -->
@@ -27,8 +27,8 @@
 <!-- 3. 统计卡片 -->
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=igloomatics&show_icons=true&theme=dracula&hide_border=true&bg_color=20232a" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igloomatics&layout=compact&theme=dracula&hide_border=true&bg_color=20232a" />
+  <img src="https://github-readme-stats.vercel.app/api?username=igloomatics&show_icons=true&theme=vue&hide_border=true&bg_color=20232a" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igloomatics&layout=compact&theme=vue&hide_border=true&bg_color=20232a" />
 </div>
 
 
