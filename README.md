@@ -1,6 +1,6 @@
 <!-- 1. 顶部 Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e6f4f9&height=300&section=header&text=Igloos&fontSize=90&fontColor=445D6E&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Developer&descAlignY=51&descAlign=62&descColor=5f7d95" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e6f4f9&height=300&section=header&text=Igloos&fontSize=90&fontColor=445D6E&animation=fadeIn&fontAlignY=38&desc=Meow%20|%20MeowAlignY=51&descAlign=62&descColor=5f7d95" width="100%"/>
 </div>
 
 <!-- 2. 中间文字和徽章 
@@ -26,7 +26,7 @@
 
 <!-- 3. 统计卡片 (已改为清新蓝白配色) -->
 <div align="center">
-  <h2>📊 GitHub Statistics</h2>
+  <!--<h2>📊 GitHub Statistics</h2>-->
   <img src="https://github-readme-stats.vercel.app/api?username=igloomatics&show_icons=true&hide_border=true&bg_color=ffffff&title_color=445D6E&text_color=5f7d95&icon_color=74c0fc&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igloomatics&layout=compact&hide_border=true&bg_color=ffffff&title_color=445D6E&text_color=5f7d95" />
 </div>
