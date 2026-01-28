@@ -3,17 +3,22 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *" # 每天午夜运行
-  workflow_dispatch:
+  workflow_dispatch: # 允许手动运行
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # 💥 关键修改：必须加上这段权限声明！
+    permissions: 
+      contents: write
+
     steps:
       - uses: actions/checkout@v3
-      
+
       - uses: Platane/snk@v3
         with:
-          # github 用户名
+          # github 用户名 (会自动获取)
           github_user_name: ${{ github.repository_owner }}
           # 生成的文件名 (svg 和 gif)
           outputs: |
