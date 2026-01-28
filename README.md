@@ -33,14 +33,12 @@
 
 <br>
 
-<!-- 4. 贡献折线图 (Action生成)
-<!-- 注意：我把路径里的 /dracula/ 改成了 /default/，这样才是亮色版 -->
+<!-- 4. 贡献折线图 (Action生成) -->
 <div align="center">
   <img src="https://github.com/igloomatics/igloomatics/blob/main/profile-summary-card-output/default/0-profile-details.svg" />
-</div>  -->
+</div>  
 
-<!-- 5. 贪吃蛇 (Action生成)
-<!-- 注意：我把文件名里的 -dark 去掉了，改为亮色版 -->
+<!-- 5. 贪吃蛇 (Action生成) -->
 <div align="center">
   <img src="https://github.com/igloomatics/igloomatics/raw/output/github-contribution-grid-snake.svg" />
-</div>  -->
+</div>  
