@@ -1,60 +1,46 @@
-<!-- 1. 顶部 Banner (这里假设你用 capsule-render 替代，如果是自定义图片请换成图片路径) -->
+<!-- 1. 顶部 Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e6f4f9&height=300&section=header&text=Igloos&fontSize=90&fontColor=445D6E&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Developer&descAlignY=51&descAlign=62&descColor=5f7d95" width="100%"/>
 </div>
 
-<!-- 2. 中间文字和徽章 -->
+<!-- 2. 中间文字和徽章 
 <div align="center">
   <br>
   <h3>(*´∀`)~♥</h3>
   
   <p>
     <a href="https://github.com/igloomatics">
-      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GITHUB-445D6E?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="mailto:igloomatics@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/EMAIL-74c0fc?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=igloomatics&style=for-the-badge&color=2e2457" />
+    <img src="https://komarev.com/ghpvc/?username=igloomatics&style=for-the-badge&color=e6f4f9&labelColor=445D6E" />
   </p>
   
-  <h2>👋 About Me</h2>
+  <h2 style="color: #445D6E;">👋 About Me</h2>
   <p>这里写你的自我介绍...</p>
+</div> -->
+
+<br>
+
+<!-- 3. 统计卡片 (已改为清新蓝白配色) -->
+<div align="center">
+  <h2>📊 GitHub Statistics</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=igloomatics&show_icons=true&hide_border=true&bg_color=ffffff&title_color=445D6E&text_color=5f7d95&icon_color=74c0fc&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igloomatics&layout=compact&hide_border=true&bg_color=ffffff&title_color=445D6E&text_color=5f7d95" />
 </div>
 
 <br>
 
-<!-- 3. 统计卡片 -->
+<!-- 4. 贡献折线图 (Action生成)
+<!-- 注意：我把路径里的 /dracula/ 改成了 /default/，这样才是亮色版 -->
 <div align="center">
-  <h2>📊 GitHub Statistics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=igloomatics&show_icons=true&theme=vue&hide_border=true&bg_color=20232a" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igloomatics&layout=compact&theme=vue&hide_border=true&bg_color=20232a" />
-</div>
+  <img src="https://github.com/igloomatics/igloomatics/blob/main/profile-summary-card-output/default/0-profile-details.svg" />
+</div>  -->
 
-
-<!-- 4. 贡献折线图 (需要配置 Action 后才能显示) -->
+<!-- 5. 贪吃蛇 (Action生成)
+<!-- 注意：我把文件名里的 -dark 去掉了，改为亮色版 -->
 <div align="center">
-  <img src="https://github.com/igloomatcis/igloomatics/blob/main/profile-summary-card-output/dracula/0-profile-details.svg" />
-</div>
-
-<!-- 5. 贪吃蛇 (需要配置 Action 后才能显示) -->
-<div align="center">
-  <img src="https://github.com/igloomatics/igloomatics/raw/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-
-
-<!--
-**igloomatics/igloomatics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://github.com/igloomatics/igloomatics/raw/output/github-contribution-grid-snake.svg" />
+</div>  -->
