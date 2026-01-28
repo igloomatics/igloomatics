@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- 1. 顶部 Banner (这里假设你用 capsule-render 替代，如果是自定义图片请换成图片路径) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C1E1EA&height=300&section=header&text=Igloos%&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Developer&descAlignY=51&descAlign=62" width="100%"/>
@@ -17,7 +15,7 @@
     <a href="mailto:igloomatics@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=你的用户名&style=for-the-badge&color=2e2457" />
+    <img src="https://komarev.com/ghpvc/?username=igloomatics&style=for-the-badge&color=2e2457" />
   </p>
   
   <h2>👋 About Me</h2>
