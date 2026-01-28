@@ -31,10 +31,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igloomatics&layout=compact&theme=dracula&hide_border=true&bg_color=20232a" />
 </div>
 
-<!-- 4. 贪吃蛇 (需要配置 Action 后才能显示) -->
+
+<!-- 4. 贡献折线图 (需要配置 Action 后才能显示) -->
+<div align="center">
+  <img src="https://github.com/igloomatcis/igloomatics/blob/main/profile-summary-card-output/dracula/0-profile-details.svg" />
+</div>
+
+<!-- 5. 贪吃蛇 (需要配置 Action 后才能显示) -->
 <div align="center">
   <img src="https://github.com/igloomatics/igloomatics/raw/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
 
 
 <!--
