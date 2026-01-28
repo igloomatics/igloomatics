@@ -2,13 +2,13 @@
 
 <!-- 1. 顶部 Banner (这里假设你用 capsule-render 替代，如果是自定义图片请换成图片路径) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7057ff&height=300&section=header&text=Ken%20Xiao&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Developer&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#C1E1EA&height=300&section=header&text=Igloos%&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Developer&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
 <!-- 2. 中间文字和徽章 -->
 <div align="center">
   <br>
-  <h3>喵</h3>
+  <h3>(*´∀`)~♥</h3>
   
   <p>
     <a href="https://github.com/igloomatics">
