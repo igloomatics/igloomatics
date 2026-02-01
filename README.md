@@ -27,7 +27,7 @@
 <!-- 3. 统计卡片 (已改为清新蓝白配色) -->
 <div align="center">
   <!--<h2>📊 GitHub Statistics</h2>-->
-  <img src="https://github-readme-stats.vercel.app/api?username=igloomatics&show_icons=true&hide_border=true&bg_color=ffffff&title_color=445D6E&text_color=5f7d95&icon_color=74c0fc" />
+  <img src="https://github-readme-stats.vercel.app/api?username=igloomatics&show_icons=true&hide_border=true&bg_color=ffffff&title_color=445D6E&text_color=5f7d95&icon_color=74c0fc&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igloomatics&layout=compact&hide_border=true&bg_color=ffffff&title_color=445D6E&text_color=5f7d95" />
 </div>
 
