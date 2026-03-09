@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e6f4f9&height=250&section=header&text=Igloos&fontSize=90&fontColor=445D6E&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Developer&descAlignY=51&descAlign=62&descColor=5f7d95" width="100%"/>
 </div> -->
 
-### <img width="180" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hello~%20I'm%20Igloos&font=Doto" /> 👋
+### <img width="250" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hello~%20I'm%20Igloos&font=Doto" /> 👋
 
 <!-- 标题
 <div align="center">
