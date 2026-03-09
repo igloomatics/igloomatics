@@ -3,11 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e6f4f9&height=250&section=header&text=Igloos&fontSize=90&fontColor=445D6E&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Developer&descAlignY=51&descAlign=62&descColor=5f7d95" width="100%"/>
 </div> -->
 
+### <img width="180" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hello~%20I'm%20Igloos&font=Doto" /> 👋
+
+<!-- 标题
 <div align="center">
   <h2 style="color: #445D6E;">👋 Hello! I'm Igloos</h2>
   <!-- <p>探索人工智能的深度，热爱手绘风格的开发者。<br>
   目前专注于 <b>LLM 安全重现</b> 与 <b>Zotero 插件开发</b>。</p> -->
-</div>
+</div> -->
 
 <!-- 2. 中间文字和徽章 
 <div align="center">
