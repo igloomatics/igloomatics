@@ -35,9 +35,13 @@
 - 🔭 currently focusing on **AI Safety**
 
 - 🪄 read my [Blog](https://igloomatics.vercel.app) to learn more about me
-  
-<img src="https://github-readme-stats.vercel.app/api?username=igloomatics&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=cba6f7&text_color=6c6f85&icon_color=f5c2e7&count_private=true&rank_icon=github" height="150"/>
+
+<a href="https://github.com/igloomatics">
+  <img src="https://github-readme-stats.vercel.app/api?username=igloomatics&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=cba6f7&text_color=6c6f85&icon_color=f5c2e7&count_private=true&rank_icon=github" height="150"/>
+</a>
+<a href="https://github.com/igloomatics">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igloomatics&layout=compact&hide_border=true&bg_color=fff0f5&title_color=cba6f7&text_color=6c6f85&langs_count=5" height="150"/>
+</a>
 
 
 <details>  
@@ -48,22 +52,6 @@
   
   </div>
   
-  
-  <div align="center" style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap;">
-  
-  <a href="https://github.com/igloomatics">
-  <img src="https://github-readme-stats.vercel.app/api?username=igloomatics&show_icons=true&hide_title=true&hide_border=true&icon_color=7A88F2&text_color=2B2D42&bg_color=FFFFFF00" alt="GitHub stats" />
-  </a>
-  
-  <a href="https://github.com/igloomatics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igloomatics&layout=compact&hide_border=true&title_color=7A88F2&text_color=2B2D42&bg_color=FFFFFF00" alt="Top languages" />
-  </a>
-  
-  <a href="https://github.com/igloomatics">
-  <img src="https://streak-stats.demolab.com?user=igloomatics&hide_border=true&background=FFFFFF00&ring=A3C4F3&fire=C9B6E4&currStreakLabel=2B2D42&sideNums=2B2D42&sideLabels=7A88F2" alt="GitHub streak" />
-  </a>
-  
-  </div>
   
   <p align="center">
   <!-- 如果尚未配置 snake action，可先保留此占位；详见 https://github.com/Platane/snk -->
