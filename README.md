@@ -7,6 +7,7 @@
 ### <img width="250" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hello~%20I'm%20Igloos&font=Doto" /> 👋
 -->
 
+
 <!-- Profile README for igloos
 <div align="center">  
 <h1>Hi, I'm igloos 👋</h1> -->
@@ -20,39 +21,49 @@
 
 # Hi, I'm igloos <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 
+
+<picture>
+  <img src="https://worldr.photo.store.qq.com/psc?/world/0e7PjWG9ceFfrsX9JhSrp2XuDNDK5U.gyuuIY1QIne5bc26gjGdLpP0UNucghWloP7.ns5LtTu6hJx*7HMF2CXTMiR*CKgwP6a7uzxk8sDA!/o=&bo=8ADwAPAA8AARHyg!&type=image/gif" width="150" height="150"
+    align="right" />
+</picture>
+
+
 - 🎓 incoming Ph.D. (2026Fall) @[CASIA](http://www.ia.cas.cn/)
   
-- 🔭 I'm currently focusing on **AI Safety**
+- 🔭 currently focusing on **AI Safety**
 
-- 🪄 Read my [Blog](https://igloomatics.vercel.app) to learn more about me 
+- 🪄 read my [Blog](https://igloomatics.vercel.app) to learn more about me
+  
 
+<details>  
 
+<summary>☁️ Maybe too noisy...</summary>
 
-<div align="center" style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap; margin-top:18px;">
-
-</div>
-
-
-<div align="center" style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap;">
-
-<a href="https://github.com/igloomatics">
-<img src="https://github-readme-stats.vercel.app/api?username=igloomatics&show_icons=true&hide_title=true&hide_border=true&icon_color=7A88F2&text_color=2B2D42&bg_color=FFFFFF00" alt="GitHub stats" />
-</a>
-
-<a href="https://github.com/igloomatics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igloomatics&layout=compact&hide_border=true&title_color=7A88F2&text_color=2B2D42&bg_color=FFFFFF00" alt="Top languages" />
-</a>
-
-<a href="https://github.com/igloomatics">
-<img src="https://streak-stats.demolab.com?user=igloomatics&hide_border=true&background=FFFFFF00&ring=A3C4F3&fire=C9B6E4&currStreakLabel=2B2D42&sideNums=2B2D42&sideLabels=7A88F2" alt="GitHub streak" />
-</a>
-
-</div>
-
-<p align="center">
-<!-- 如果尚未配置 snake action，可先保留此占位；详见 https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/igloomatics/igloomatics/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
+  <div align="center" style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap; margin-top:18px;">
+  
+  </div>
+  
+  
+  <div align="center" style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap;">
+  
+  <a href="https://github.com/igloomatics">
+  <img src="https://github-readme-stats.vercel.app/api?username=igloomatics&show_icons=true&hide_title=true&hide_border=true&icon_color=7A88F2&text_color=2B2D42&bg_color=FFFFFF00" alt="GitHub stats" />
+  </a>
+  
+  <a href="https://github.com/igloomatics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igloomatics&layout=compact&hide_border=true&title_color=7A88F2&text_color=2B2D42&bg_color=FFFFFF00" alt="Top languages" />
+  </a>
+  
+  <a href="https://github.com/igloomatics">
+  <img src="https://streak-stats.demolab.com?user=igloomatics&hide_border=true&background=FFFFFF00&ring=A3C4F3&fire=C9B6E4&currStreakLabel=2B2D42&sideNums=2B2D42&sideLabels=7A88F2" alt="GitHub streak" />
+  </a>
+  
+  </div>
+  
+  <p align="center">
+  <!-- 如果尚未配置 snake action，可先保留此占位；详见 https://github.com/Platane/snk -->
+  <img src="https://raw.githubusercontent.com/igloomatics/igloomatics/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  </p>
 
 
 <p align="center">
