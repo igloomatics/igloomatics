@@ -5,49 +5,53 @@
 
 ### <img width="250" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hello~%20I'm%20Igloos&font=Doto" /> 👋
 
-<!-- 标题
-<div align="center">
-  <h2 style="color: #445D6E;">👋 Hello! I'm Igloos</h2>
-  <!-- <p>探索人工智能的深度，热爱手绘风格的开发者。<br>
-  目前专注于 <b>LLM 安全重现</b> 与 <b>Zotero 插件开发</b>。</p> -->
+<!-- Profile README for igloos
+<div align="center">  
+<h1>Hi, I'm igloos 👋</h1> -->
+
+<!--
+<img src="https://img.shields.io/badge/PhD%20Candidate-in%20Progress-A3C4F3?style=flat-square&labelColor=2B2D42&logo=academia&logoColor=E9ECFF" alt="PhD badge" />
+<img src="https://img.shields.io/badge/Focus%20Areas-ML%20%7C%20Systems%20Thinking-C9B6E4?style=flat-square&labelColor=2B2D42&logo=buffer&logoColor=E9ECFF" alt="Focus badge" />
+<img src="https://komarev.com/ghpvc/?username=igloomatics&style=flat-square&color=A3C4F3&label=Visitors" alt="Profile views" />
 </div> -->
 
-<!-- 2. 中间文字和徽章 
-<div align="center">
-  <br>
-  <h3>(*´∀`)~♥</h3>
-  
-  <p>
-    <a href="https://github.com/igloomatics">
-      <img src="https://img.shields.io/badge/GITHUB-445D6E?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="mailto:igloomatics@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-74c0fc?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=igloomatics&style=for-the-badge&color=e6f4f9&labelColor=445D6E" />
-  </p>
-  
-  <h2 style="color: #445D6E;">👋 About Me</h2>
-  <p>这里写你的自我介绍...</p>
-</div> -->
 
-<br>
+- incoming Ph.D. (2026Fall) @[CASIA](http://www.ia.cas.cn/).
+- currently focusing on **AI Safety**
 
-<!-- 3. 统计卡片 (已改为清新蓝白配色) -->
-<div align="center">
-  <!--<h2>📊 GitHub Statistics</h2>-->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=igloomatics&show_icons=true&hide_border=true&bg_color=ffffff&title_color=445D6E&text_color=5f7d95&icon_color=74c0fc&count_private=true" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=igloomatics&layout=compact&hide_border=true&bg_color=ffffff&title_color=445D6E&text_color=5f7d95" />
+<div align="center" style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap; margin-top:18px;">
+
 </div>
 
-<br>
 
-<!-- 4. 贡献折线图 (Action生成) -->
-<div align="center">
-  <img src="https://github.com/igloomatics/igloomatics/blob/main/profile-summary-card-output/default/0-profile-details.svg" />
-</div>  
+<div align="center" style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap;">
 
-<!-- 5. 贪吃蛇 (Action生成) -->
-<div align="center">
-  <img src="https://github.com/igloomatics/igloomatics/raw/output/github-contribution-grid-snake.svg" />
-</div>  
+<a href="https://github.com/igloomatics">
+<img src="https://github-readme-stats.vercel.app/api?username=igloomatics&show_icons=true&hide_title=true&hide_border=true&icon_color=7A88F2&text_color=2B2D42&bg_color=FFFFFF00" alt="GitHub stats" />
+</a>
+
+<a href="https://github.com/igloomatics">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igloomatics&layout=compact&hide_border=true&title_color=7A88F2&text_color=2B2D42&bg_color=FFFFFF00" alt="Top languages" />
+</a>
+
+<a href="https://github.com/igloomatics">
+<img src="https://streak-stats.demolab.com?user=igloomatics&hide_border=true&background=FFFFFF00&ring=A3C4F3&fire=C9B6E4&currStreakLabel=2B2D42&sideNums=2B2D42&sideLabels=7A88F2" alt="GitHub streak" />
+</a>
+
+</div>
+
+<p align="center">
+<!-- 如果尚未配置 snake action，可先保留此占位；详见 https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/igloomatics/igloomatics/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,html,markdown,unity,godot,docker,git,github,latex,linux,vscode" alt="Tech stack icons" />
+</p>
+
+<hr/>
+
+<p align="center">
+<sub>Last updated: 2026-03-13</sub>
+</p>
