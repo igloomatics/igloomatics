@@ -21,6 +21,8 @@
 
 # Hi, I'm igloos <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 
+[![Blog](https://img.shields.io/badge/✦_igloomatics.vercel.app-f5c2e7?style=flat-square&logoColor=313244)](https://igloomatics.vercel.app/)&nbsp;
+![views](https://komarev.com/ghpvc/?username=igloomatics&color=cba6f7&style=flat-square&label=✦+views)
 
 <picture>
   <img src="https://worldr.photo.store.qq.com/psc?/world/0e7PjWG9ceFfrsX9JhSrp2XuDNDK5U.gyuuIY1QIne5bc26gjGdLpP0UNucghWloP7.ns5LtTu6hJx*7HMF2CXTMiR*CKgwP6a7uzxk8sDA!/o=&bo=8ADwAPAA8AARHyg!&type=image/gif" width="150" height="150"
@@ -34,10 +36,13 @@
 
 - 🪄 read my [Blog](https://igloomatics.vercel.app) to learn more about me
   
+<img src="https://github-readme-stats.vercel.app/api?username=igloomatics&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=cba6f7&text_color=6c6f85&icon_color=f5c2e7&count_private=true&rank_icon=github" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igloomatics&layout=compact&hide_border=true&bg_color=fff0f5&title_color=cba6f7&text_color=6c6f85&langs_count=5" height="150"/>
+
 
 <details>  
 
-<summary>☁️ Maybe too noisy...</summary>
+<summary>More...</summary>
 
   <div align="center" style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap; margin-top:18px;">
   
