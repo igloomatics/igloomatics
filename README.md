@@ -36,6 +36,7 @@
 
 - 🪄 read my [Blog](https://igloomatics.vercel.app) to learn more about me
 
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=igloomatics)](https://github.com/pranesh-2005/github-readme-stats-fast)
 <a href="https://github.com/igloomatics">
   <img src="https://github-readme-stats.vercel.app/api?username=igloomatics&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=cba6f7&text_color=6c6f85&icon_color=f5c2e7&count_private=true&rank_icon=github" height="150"/>
 </a>
