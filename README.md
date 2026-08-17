@@ -51,7 +51,7 @@
 - 1st year Ph.D. Student @[CASIA](http://www.ia.cas.cn/)
 - I currently work on **AI Safety and Alignment**. I'm interested in
 understanding and controlling the behavior of AI.
-- I have a [Blog](https://igloomatics.vercel.app) --- my little home on the Internet.
+- I have a [Blog](https://igloomatics.vercel.app) - my little home on the Internet.
 - Feel free to reach out → [✦Email](mailto:igloomatics@gmail.com)
 
 
