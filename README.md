@@ -13,13 +13,25 @@
 <h1>Hi, I'm igloos 👋</h1> -->
 
 
+
+
 <!--
 <img src="https://img.shields.io/badge/PhD%20Candidate-in%20Progress-A3C4F3?style=flat-square&labelColor=2B2D42&logo=academia&logoColor=E9ECFF" alt="PhD badge" />
 <img src="https://img.shields.io/badge/Focus%20Areas-ML%20%7C%20Systems%20Thinking-C9B6E4?style=flat-square&labelColor=2B2D42&logo=buffer&logoColor=E9ECFF" alt="Focus badge" />
 <img src="https://komarev.com/ghpvc/?username=igloomatics&style=flat-square&color=A3C4F3&label=Visitors" alt="Profile views" />
 </div> -->
 
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&color=65b9e7&center=false&pause=100000&lines=Hi,+I'm+igloos." alt="Hi"/>
+  <p>
+    <code>Ph.D. Student</code>
+    <code>AI Researcher</code>
+  </p>
+</div>
+
+<!--
 # Hi, I'm igloos <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+-->
 <!-- <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/> -->
 
 <!--
@@ -33,9 +45,9 @@
 </picture>
 
 
-- 🎓 incoming Ph.D. (2026Fall) @[CASIA](http://www.ia.cas.cn/)
-- 🔭 currently focusing on **AI Safety**
-- 🪄 read my [Blog](https://igloomatics.vercel.app) to learn more about me
+-  Ph.D. Student @[CASIA](http://www.ia.cas.cn/)
+-  currently interested in **AI Safety and Alignment**
+-  read my [Blog](https://igloomatics.vercel.app) to learn more about me
 
 
 
