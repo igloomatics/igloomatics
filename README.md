@@ -21,6 +21,7 @@
 <img src="https://komarev.com/ghpvc/?username=igloomatics&style=flat-square&color=A3C4F3&label=Visitors" alt="Profile views" />
 </div> -->
 
+<!--
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&color=65b9e7&center=false&pause=100000&lines=Hi,+I'm+igloos." alt="Hi"/>
   <p>
@@ -28,10 +29,11 @@
     <code>AI Researcher</code>
   </p>
 </div>
-
-<!--
-# Hi, I'm igloos <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 -->
+
+
+# Hi, I'm igloos <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+
 <!-- <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/> -->
 
 <!--
@@ -39,15 +41,19 @@
 ![views](https://komarev.com/ghpvc/?username=igloomatics&color=cba6f7&style=flat-square&label=✦+views)
 -->
 
+
 <picture>
   <img src="https://worldr.photo.store.qq.com/psc?/world/0e7PjWG9ceFfrsX9JhSrp2XuDNDK5U.gyuuIY1QIne5bc26gjGdLpP0UNucghWloP7.ns5LtTu6hJx*7HMF2CXTMiR*CKgwP6a7uzxk8sDA!/o=&bo=8ADwAPAA8AARHyg!&type=image/gif" width="150" height="150"
     align="right" />
 </picture>
 
 
--  Ph.D. Student @[CASIA](http://www.ia.cas.cn/)
--  currently interested in **AI Safety and Alignment**
--  read my [Blog](https://igloomatics.vercel.app) to learn more about me
+- 1st year Ph.D. Student @[CASIA](http://www.ia.cas.cn/)
+- I currently work on **AI Safety and Alignment**. I'm interested in
+understanding and controlling the behavior of AI.
+- I have a [Blog](https://igloomatics.vercel.app) --- my little home on the Internet.
+- Feel free to reach out → [✦Email](mailto:igloomatics@gmail.com)
+
 
 
 
